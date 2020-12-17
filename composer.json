@@ -19,12 +19,6 @@
   "require-dev": {
     "phpunit/phpunit": "^8.5"
   },
-  "provide": {
-    "bower-asset/jquery": "*",
-    "bower-asset/inputmask": "*",
-    "bower-asset/punycode": "*",
-    "bower-asset/yii2-pjax": "*"
-  },
   "autoload": {
     "psr-4": {
       "jamband\\behaviors\\": "src"
